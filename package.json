@@ -1,5 +1,5 @@
 {
-  "name": "Todo-list-webpack",
+  "name": "To-Do-list-webpack",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Epaltechs/Todo-list.git"
+    "url": "git+https://github.com/Epaltechs/To-Do-list.git"
   },
   "keywords": [],
   "author": "",
@@ -24,8 +24,8 @@
     "css-loader": "^6.5.1",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.25.4",
-    "hint": "^6.1.9",
+    "eslint-plugin-import": "^2.26.0",
+    "hint": "^6.2.0",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.1",
     "stylelint": "^13.13.1",

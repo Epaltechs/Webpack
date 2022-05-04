@@ -1,8 +1,8 @@
 import './style.css';
 
 const todosList = [
-  { description: 'todo2', completed: false, index: 2 },
-  { description: 'todo1', completed: false, index: 1 },
+  { description: 'First task', completed: false, index: 2 },
+  { description: 'Second task', completed: false, index: 1 },
 ];
 
 const render = (list) => {

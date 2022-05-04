@@ -40,7 +40,8 @@
 .clear {
   background-color: rgba(240, 240, 240, 0.493);
   text-align: center;
-  padding: 3%;}
+  padding: 3%;
+}
 
 .clear a {
   color: rgba(0, 217, 255, 0.507);
